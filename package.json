@@ -1,0 +1,15 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "LEARNING PROJECT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "NIROSH KUMAR",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.5.3"
+  }
+}
